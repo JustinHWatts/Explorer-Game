@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=_name\ _room
+comment0.target=Explorer(java.lang.String,\ Room)
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=treasure
+comment2.target=void\ grab(Treasure)
+numComments=3
